@@ -19,7 +19,6 @@ library(DT)
 
 # # Global 
 owmr_settings('0a779014ed1acf477929cabe0bff89d5')
-#open_key<-'0a779014ed1acf477929cabe0bff89d5'
 OWM_API_KEY<-'0a779014ed1acf477929cabe0bff89d5'
 Sys.setenv(OWM_API_KEY = '0a779014ed1acf477929cabe0bff89d5') # if not set globally
 my_key <-'230ee74b03a3b70f29fe260f8fa409c5'
